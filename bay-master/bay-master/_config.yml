@@ -7,6 +7,9 @@ baseurl: "/bay"
 url: "https://cafepinson.github.io"
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
+remote_theme: bay-master
+gem 'bay_jekyll_theme', '~> 1.2', '>= 1.2.2'
+gem install bay_jekyll_theme
 
 header:
   pages:
