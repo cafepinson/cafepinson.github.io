@@ -66,5 +66,6 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
+remote_theme: eliottvincent/bay
 # Used for defeating caching
 version: 1
