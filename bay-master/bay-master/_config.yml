@@ -13,9 +13,9 @@ gem install bay_jekyll_theme
 
 header:
   pages:
-    - name: Home
+    - name: Home: Korea
       slug: /
-    - name: Work
+    - name: Work: Assistant professor
     - name: Blog
 
 footer:
